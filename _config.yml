@@ -197,9 +197,9 @@ sass:
   style: compressed
 
 compress_html:
-  clippings: 全部
-  comments: 全部
-  endings: 全部
+  clippings: all
+  comments: all
+  endings: all
   profile: false
   blanklines: false
   ignore:
